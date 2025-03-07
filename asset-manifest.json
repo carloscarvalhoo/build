@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2dade81e.css",
-    "main.js": "/static/js/main.80b14ee4.js",
+    "main.css": "/static/css/main.62bc1e75.css",
+    "main.js": "/static/js/main.2d213b68.js",
     "static/media/heroSection2.png": "/static/media/heroSection2.32fa8e4e211cb79b8997.png",
     "static/media/heroSection1.png": "/static/media/heroSection1.f086cf30ee37844a0ba6.png",
     "static/media/image2.png": "/static/media/image2.9fa1a8bd699f46df9f84.png",
@@ -17,11 +17,11 @@
     "static/media/whatsapp.svg": "/static/media/whatsapp.bcab769d89393ea8e837aa1ef3250447.svg",
     "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.0a6d989971c05e6fcb11563bb598c162.svg",
-    "main.2dade81e.css.map": "/static/css/main.2dade81e.css.map",
-    "main.80b14ee4.js.map": "/static/js/main.80b14ee4.js.map"
+    "main.62bc1e75.css.map": "/static/css/main.62bc1e75.css.map",
+    "main.2d213b68.js.map": "/static/js/main.2d213b68.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dade81e.css",
-    "static/js/main.80b14ee4.js"
+    "static/css/main.62bc1e75.css",
+    "static/js/main.2d213b68.js"
   ]
 }
